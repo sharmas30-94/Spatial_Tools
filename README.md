@@ -13,4 +13,5 @@
 #### VisiumHD Segmentation: https://lovednacodeblog.com/post/2025-01-17-visiumhd-segmentation/
 #### Mapping Drug Actions in Space: SDMap: http://bio-bigdata.hrbmu.edu.cn/SDMap/.
 #### iScale: https://github.com/amesch441/iSCALE
+#### Dowload Data from TCGA and GTEX: https://ngs101.com/how-to-download-gene-expression-data-from-tcga-and-gtex-using-r-a-complete-guide-for-cancer-genomics-research/
 
