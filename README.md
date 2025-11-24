@@ -17,3 +17,4 @@
 #### Batch effects in RNA-seq: https://ngs101.com/how-to-analyze-rnaseq-data-for-absolute-beginners-21-a-comprehensive-guide-to-batch-effects-covariates-adjustment
 #### GraphComm: A Graph-based Deep Learning Method to Predict Cell-Cell Communication in single-cell RNAseq data: https://github.com/bhklab/GraphComm
 #### GWAS Study:https://ngs101.com/how-to-perform-genome-wide-association-analysis-gwas-for-absolute-beginners-from-raw-variants-to-disease-associated-loci-using-plink/
+#### Neighborhood analysis: https://lmweber.org/OSTA/pages/seq-workflow-visium-hd.html
