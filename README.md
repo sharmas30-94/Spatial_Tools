@@ -23,4 +23,5 @@
 #### deepprofile:https://github.com/suinleelab/deepprofile-study
 #### Segmentation Tutorial: https://rafael-silva-oliveira.github.io/blog/2026/segmentation-and-annotation/
 #### citrome Data browser: The cistrome refers to "the set of cis-acting targets of a trans-acting factor on a genome-wide scale, also known as the in vivo genome-wide location of transcription factor binding-sites or histone modifications". Here we build integrative analysis pipelines (Cistrome) to help experimental biologists, and conduct efficient data integration to better mine the hidden biological insights from publicly available high throughput data.
+### Approaches for looking at differential expression and differential abundance in scRNA-seq: https://hbctraining.github.io/Pseudobulk-for-scRNAseq/
 
